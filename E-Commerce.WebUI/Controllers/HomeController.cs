@@ -1,4 +1,4 @@
-﻿using E_Commerce.UI.Models;
+﻿using E_Commerce.WebUI.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace E_Commerce.UI.Controllers
+namespace E_Commerce.WebUI.Controllers
 {
     public class HomeController : Controller
     {

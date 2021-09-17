@@ -3,8 +3,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:8160",
-      "sslPort": 44310
+      "applicationUrl": "http://localhost:55286",
+      "sslPort": 44383
     }
   },
   "profiles": {
@@ -16,7 +16,7 @@
         "ASPNETCORE_HOSTINGSTARTUPASSEMBLIES": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation"
       }
     },
-    "E_Commerce.UI": {
+    "E_Commerce.WebUI": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

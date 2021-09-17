@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31710.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Commerce.UI", "E-Commerce.UI\E-Commerce.UI.csproj", "{E39B5CD7-7CBE-4B5B-B926-0F79BA033F2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Commerce.WebUI", "E-Commerce.WebUI\E-Commerce.WebUI.csproj", "{5C96BCEC-FE27-4F31-86F8-5AC74DEEFA42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E39B5CD7-7CBE-4B5B-B926-0F79BA033F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E39B5CD7-7CBE-4B5B-B926-0F79BA033F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E39B5CD7-7CBE-4B5B-B926-0F79BA033F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E39B5CD7-7CBE-4B5B-B926-0F79BA033F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C96BCEC-FE27-4F31-86F8-5AC74DEEFA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C96BCEC-FE27-4F31-86F8-5AC74DEEFA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C96BCEC-FE27-4F31-86F8-5AC74DEEFA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C96BCEC-FE27-4F31-86F8-5AC74DEEFA42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
